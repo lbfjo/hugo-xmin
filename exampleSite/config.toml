@@ -10,7 +10,10 @@ footnotereturnlinkcontents = "↩"
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
     note = "/note/:year/:month/:day/:slug/"
-
+[[menu.main]]
+    name = "APP"
+    url = "http://app.tobio.pt"
+    weight = 1
 [[menu.main]]
     name = "Home"
     url = "/"
